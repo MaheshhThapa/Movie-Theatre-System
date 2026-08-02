@@ -41,4 +41,4 @@ booking system that replaces a manual, in-person ticket booking process.
   this.
 
 ## Files
-- `UseCaseDiagram.svg` — the use case diagram.
+- `Movie-Theatre-System.pdf` — the use case diagram.
